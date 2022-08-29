@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Noticia
+comment0.text=Trabalho\ para\ avalia\u00E7\u00E3o\ de\ Grau\ B\ do\ aluno\ Guilherme\ Luthemaier\ Zardo\ para\ a\ disciplina\ de\ Fundamentos\ de\ Programa\u00E7\u00E3o,\ \r\n\ Curso\ de\ Ci\u00EAncias\ da\ Computa\u00E7\u00E3o,\ H\u00EDbrido,\ Unisinos.\ \r\n\ Professor\:\ Mateus\ Raeder\r\n\ Data\:\ 08/07/2020.\r\n
+comment1.params=
+comment1.target=Noticia()
+comment2.params=
+comment2.target=java.lang.String\ getManchete()
+comment3.params=manchete
+comment3.target=void\ setManchete(java.lang.String)
+comment4.params=
+comment4.target=Data\ getData()
+comment5.params=data
+comment5.target=void\ setData(Data)
+comment6.params=
+comment6.target=java.lang.String\ getTexto()
+comment7.params=texto
+comment7.target=void\ setTexto(java.lang.String)
+comment8.params=
+comment8.target=void\ ImprimeNoticia()
+numComments=9

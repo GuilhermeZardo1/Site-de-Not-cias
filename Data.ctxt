@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Data
+comment0.text=Trabalho\ para\ avalia\u00E7\u00E3o\ de\ Grau\ B\ do\ aluno\ Guilherme\ Luthemaier\ Zardo\ para\ a\ disciplina\ de\ Fundamentos\ de\ Programa\u00E7\u00E3o,\ \r\n\ Curso\ de\ Ci\u00EAncias\ da\ Computa\u00E7\u00E3o,\ H\u00EDbrido,\ Unisinos.\ \r\n\ Professor\:\ Mateus\ Raeder\r\n\ Data\:\ 08/07/2020.\r\n
+comment1.params=
+comment1.target=Data()
+comment2.params=
+comment2.target=int\ getAno()
+comment3.params=ano
+comment3.target=void\ setAno(int)
+comment4.params=
+comment4.target=int\ getDia()
+comment5.params=dia
+comment5.target=void\ setDia(int)
+comment6.params=
+comment6.target=int\ getMes()
+comment7.params=mes
+comment7.target=void\ setMes(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
